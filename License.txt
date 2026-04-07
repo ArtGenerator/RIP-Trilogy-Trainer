@@ -49,7 +49,7 @@ DISTRIBUTION:
 The only authorized distribution channel for this Software is:
 
 
-GitHub - https://github.com/ArtGenerator/RIP-2-Strike-Back-Trainer
+GitHub - https://github.com/ArtGenerator/RIP-Trilogy-Trainer
 
 GitLab - https://gitlab.com/ArtGenerator/rip-2-strike-back
 
