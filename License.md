@@ -11,13 +11,9 @@
 **PREAMBLE:**
 
 
-
 This license grants certain usage rights while protecting the intellectual property 
 
 and commercial interests of the software creators.
-
-
-
 
 
 **DEFINITIONS:**
@@ -31,8 +27,6 @@ and commercial interests of the software creators.
 \- "User" means any individual or organization obtaining a copy of the Software
 
 \- "Modification" means any change, adaptation, or derivative work of the Software
-
-
 
 
 
