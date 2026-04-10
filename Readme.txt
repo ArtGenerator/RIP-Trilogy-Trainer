@@ -7,8 +7,8 @@ INSTALL:
 
 1.Extract the SFX archive using the password: slyboots
 
-2.The extracted archive contains a folder named “RIP Trilogy” and two subfolders:
-  Setup and Setup +. The Setup subfolder contains the trainer "RIP Trilogy", 
+2.The extracted archive contains a folder named RIP Trilogy and two subfolders:
+  Setup and Setup + The Setup subfolder contains the trainer RIP Trilogy, 
   while the Setup + subfolder contains two text files - License and Readme.
 
 3.Double-click the “RIP Trilogy” file in the Setup folder to run the trainer.
