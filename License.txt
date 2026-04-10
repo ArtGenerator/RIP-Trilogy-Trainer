@@ -53,7 +53,7 @@ GitLab - https://gitlab.com/ArtGenerator/rip-trilogy-trainer
 
 Itch.io - https://artgenerator.itch.io/rip-trilogy-trainer
 
-SourceForge - https://sourceforge.net/projects/rip-trilogy-trainer/
+SourceForge - https://sourceforge.net/projects/rip-trilogy/
 
 
 INTELLECTUAL PROPERTY:
