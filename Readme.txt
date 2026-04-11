@@ -78,7 +78,7 @@ CONTACT:
 
 
                                                                     
-                                                                  SlyBoots © 2026 | All rights reserved
+                                                      SlyBoots © 2026 | All rights reserved
 
 
 
