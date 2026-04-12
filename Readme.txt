@@ -37,8 +37,6 @@ LINKS:
 
   GitHub: https://github.com/ArtGenerator/RIP-Trilogy-Trainer
 
-  GitLab: https://gitlab.com/ArtGenerator/rip-trilogy-trainer
-
   Itch.io: https://artgenerator.itch.io/rip-trilogy-trainer
 
   Sourceforge: https://sourceforge.net/projects/rip-trilogy/
