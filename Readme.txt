@@ -39,8 +39,6 @@ LINKS:
 
   Itch.io: https://artgenerator.itch.io/rip-trilogy-trainer
 
-  Sourceforge: https://sourceforge.net/projects/rip-trilogy/
-
 
 CHEATS:
 
