@@ -1,6 +1,6 @@
 LICENSE
 
-RIP TRILOGY - RIP & RIP 2 STRIKE BACK TRAINER v1.0 (STEAM)
+RIP TRILOGY (STEAM)
 
 
 PREAMBLE:
@@ -11,7 +11,7 @@ and commercial interests of the software creators.
 
 DEFINITIONS:
 
-- "Software" means the RIP TRILOGY Trainer (RIP & RIP 2: STRIKE BACK) application and all accompanying files
+- "Software" means the RIP Trilogy (Trainer) application and all accompanying files
 - "Creators" means ArtSoft, the copyright holders
 - "User" means any individual or organization obtaining a copy of the Software
 - "Modification" means any change, adaptation, or derivative work of the Software
@@ -45,9 +45,9 @@ DISTRIBUTION:
 The only authorized distribution channel for this Software is:
 
 
-GitHub - https://github.com/ArtGenerator/RIP-Trilogy-Trainer
+GitHub - https://artgenerator.github.io
 
-Itch.io - https://artgenerator.itch.io/rip-trilogy-trainer
+Itch.io - https://artgenerator.itch.io
 
 
 INTELLECTUAL PROPERTY:
