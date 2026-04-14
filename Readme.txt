@@ -1,5 +1,3 @@
-AUTHOR: SLYBOOTS
-
 RIP TRILOGY TRAINER v1.0 ***
 
 
@@ -74,7 +72,7 @@ CONTACT:
 
 
                                                                     
-                                              SlyBoots © 2026 | All rights reserved
+                                              ArtSoft © 2026 | All rights reserved
 
 
 
