@@ -3,18 +3,17 @@ RIP TRILOGY TRAINER v1.0 ***
 
 INSTALL:
 
-1.Extract the SFX archive using the password: slyboots
+1.Extract the SFX archive using the password: artsoft
 
-2.The extracted archive contains a folder named RIP Trilogy and two subfolders:
-  Setup and Setup + The Setup subfolder contains the trainer RIP Trilogy, 
-  while the Setup + subfolder contains two text files - License and Readme.
+2.The extracted archive contains a folder Setup with the RIP Trilogy file and 
+  Setup + with text files - License and Readme.
 
-3.Double-click the “RIP Trilogy” file in the Setup folder to run the trainer.
+3.Double-click the RIP Trilogy file in the Setup folder to run the trainer.
 
 
 NOTE:
 
-  * The trainers provided by SlyBoots does not contain any malware, 
+  * The trainers provided by ArtSoft does not contain any malware, 
   ads or unwanted add-ons and is completely free. 
   If you paid for this trainer, you have been scammed.
 
@@ -25,7 +24,7 @@ NOTE:
   for modified versions distributed outside of our official channels. 
 
   * The current version of the trainer supports the first two games 
-  in the series, RIP and RIP: Strikes Back, but not RIP: The Last Hero.
+  in the series, RIP and RIP: Strikes Back.
 
 
   *** RIP, RIP 2: Strike Back, RIP 3: The Last Hero are known as RIP Trilogy on Steam
@@ -33,9 +32,9 @@ NOTE:
 
 LINKS:
 
-  GitHub: https://github.com/ArtGenerator/RIP-Trilogy-Trainer
+  GitHub: https://artgenerator.github.io
 
-  Itch.io: https://artgenerator.itch.io/rip-trilogy-trainer
+  Itch.io: https://artgenerator.itch.io
 
 
 CHEATS:
