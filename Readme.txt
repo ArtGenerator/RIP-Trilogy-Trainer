@@ -32,22 +32,22 @@ NOTE:
 
 LINKS:
 
-  GitHub: https://artgenerator.github.io
+GitHub: https://artgenerator.github.io
 
-  Itch.io: https://artgenerator.itch.io
+Itch.io: https://artgenerator.itch.io
 
 
 CHEATS:
 
-  NUM1 - Rapid Clip      (fire rate and quick reload)
-  NUM2 - High Damage     (increased weapon damage)
-  NUM3 - Infinite Health (damage resistance)
+NUM1 - Rapid Clip      (fire rate and quick reload)
+NUM2 - High Damage     (increased weapon damage)
+NUM3 - Infinite Health (damage resistance)
 
 
 IMPORTANT:
 
-  NUM1 and NUM2 can be activated BEFORE launching the game only
-  NUM3 can be activated DURING gameplay only
+NUM1 and NUM2 can be activated BEFORE launching the game only
+NUM3 can be activated DURING gameplay only
 
 
 LANGUAGES:
@@ -65,9 +65,9 @@ REQUIREMENTS:
 
 CONTACT:
 
-  E-mail: ksb_89@yahoo.com
+E-mail: ksb_89@yahoo.com
 
-  GitHub: https://github.com/ArtGenerator
+GitHub: https://github.com/ArtGenerator
 
 
                                                                     
