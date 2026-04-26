@@ -1,7 +1,6 @@
 RIP TRILOGY TRAINER v1.0
 
 
-
 NOTE:
  
 
