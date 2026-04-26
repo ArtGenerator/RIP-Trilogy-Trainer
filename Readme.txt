@@ -26,9 +26,9 @@ NOTE:
 LINKS:
 
 
-  GitHub: https://artgenerator.github.io
+- GitHub: https://artgenerator.github.io
 
-  Itch.io: https://artgenerator.itch.io
+- Itch.io: https://artgenerator.itch.io
 
   
 
