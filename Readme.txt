@@ -94,7 +94,7 @@ CONTACT:
 
 
                                                                     
-                                                        ArtSoft © 2026 All rights reserved
+                                         ArtSoft © 2026 All rights reserved
 
 
 
