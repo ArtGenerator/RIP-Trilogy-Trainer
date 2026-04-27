@@ -30,7 +30,6 @@ LINKS:
 - Itch.io: https://artgenerator.itch.io
 
   
-
 INSTALL:
 
 
@@ -44,7 +43,6 @@ INSTALL:
   The Setup + folder <---> The License and Readme text files
 
 3.Double-click the RIP Trilogy file in the Setup folder to run the trainer
-
 
 
 CHEATS:
